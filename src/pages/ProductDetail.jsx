@@ -16,7 +16,6 @@ export default function ProductDetail() {
 
   return (
     <div>
-      {name}{" "}
       <Card.Group>
         <Card fluid="strong">
           <Card.Content>
